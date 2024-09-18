@@ -45,9 +45,6 @@ When I'm not coding, you can find me exploring the outdoors or playing games at 
 
 ---
 
-Feel free to customize this and replace placeholders like `yourusername`, `your.email@example.com`, and project descriptions. To set up your profile `README.md`, you can create a new repository named **yourusername/yourusername** (replace "yourusername" with your GitHub username), and add this `README.md` file in the repository.
-
-Let me know if you'd like any changes!
 
  
  

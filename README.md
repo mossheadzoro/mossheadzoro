@@ -31,13 +31,6 @@ I'm a passionate **Full Stack Developer** with a keen interest in building scala
 
 ---
 
-## 📈 **GitHub Stats**
-
-![Ankan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
----
-
-
 
 ## 📫 **Connect with Me**
 

@@ -13,7 +13,7 @@
 
 I'm a passionate **Full Stack Developer** with a keen interest in building scalable web applications and innovative solutions. I love exploring new technologies and staying up-to-date with the latest trends in web development.
 
-- 💻 Currently working on [hire-junc-main]
+- 💻 Currently working on [Moual]
 - 🌱 Learning about **Websites**, **AI integrations** , **blockchain technology**
 - 🤝 Open to collaborating on **open-source projects**
 - 💬 Ask me about **React, Node.js, Prisma, and Next.js**
